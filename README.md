@@ -1,7 +1,7 @@
 # Hi there！👋
 
 
-𝗜'𝗺 [saad](https://github.com/saadsaif97)！𝗜'𝗺 passionate about web development 💻 and learning javascript <br />
+𝗜'𝗺 [saad](https://github.com/saadsaif97)！𝗜'𝗺 passionate about web development and learning javascript 💻 <br />
 I'm currently noob but oneday I will become worldclass web developer :fire:
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:saadgfx97@gmail.com)](mailto:saadgfx97@gmail.com)
