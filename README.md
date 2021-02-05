@@ -1,7 +1,7 @@
 # Hi there！👋
 
 
-𝗜'𝗺 [saad](https://github.com/saadsaif97)！𝗜'𝗺 passionate about web development and learning javascript 💻 <br />
+𝗜'𝗺 [saad](https://github.com/saadsaif97)！𝗜'𝗺 passionate about web development and learning javascript and python 💻 <br />
 I'm currently noob but oneday I will become worldclass web developer :fire:
 Now a days I'm learning react and Django
 
