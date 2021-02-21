@@ -29,6 +29,6 @@ Now a days I'm learning react, vue, laravel and Django
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> Git
 </pre>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadsaif97&layout=compact">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadsaif97&layout=compact&theme=radical">
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=saadsaif97&hide=contribs,prs,stars,issues,show_icons=true&hide_border=true&theme=dark">
 
