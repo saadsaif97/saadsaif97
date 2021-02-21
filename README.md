@@ -5,8 +5,8 @@
 I'm currently noob but oneday I will become worldclass web developer :fire: <br/>
 Now a days I'm learning react, vue, laravel and Django
 
-[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:saadgfx97@gmail.com)](mailto:saadgfx97@gmail.com)
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=saadsaif97&show_icons=true&hide_border=true">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=saadsaif97&hide=contribs,prs,stars,issues,show_icons=true&hide_border=true">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
 
 ## 🧐 About
 
