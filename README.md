@@ -5,10 +5,8 @@
 I'm currently noob but oneday I will become worldclass web developer :fire: <br/>
 Now a days I'm learning react, vue, laravel and Django
 
-<pre>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadsaif97&layout=compact&theme=dark&hide_border=true">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=saadsaif97&hide=contribs,prs,stars,issues,show_icons=true&hide_border=true&theme=dark">
-</pre>
+<img  src="https://github-readme-stats.vercel.app/api?username=saadsaif97&hide=contribs,prs,stars,issues,show_icons=true&hide_border=true&theme=dark">
+
 
 ## 🧐 About
 
@@ -32,4 +30,4 @@ Now a days I'm learning react, vue, laravel and Django
 </pre>
 
 
-
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadsaif97&layout=compact&theme=dark&hide_border=true">
