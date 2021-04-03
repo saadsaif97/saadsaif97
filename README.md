@@ -2,7 +2,7 @@
 
 
 𝗜'𝗺 [saad](https://github.com/saadsaif97)！𝗜'𝗺 passionate about web development 💻 <br />
-I'm currently noob but oneday I will become worldclass web developer :fire: <br/>
+Oneday I will become worldclass web developer :fire: <br/>
 Now a days I'm learning react
 
 <img  src="https://github-readme-stats.vercel.app/api?username=saadsaif97&hide=contribs,prs,stars,issues,show_icons=true&hide_border=true&theme=dark">
