@@ -3,11 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saadsaif97&label=Profile%20views&color=0e75b6&style=flat" alt="saadsaif97" /> </p>
 
-- 🌱 I’m currently learning **MERN stack**
-
-- 👨‍💻 All of my projects are available at [https://saadsaif97.netlify.app/](https://saadsaif97.netlify.app/)
-
-- 💬 Ask me about **frontend web development**
+- 👨‍💻 Here is my simple portfolio: [https://saadsaif97.netlify.app/](https://saadsaif97.netlify.app/)
 
 - 📫 How to reach me **saadgfx97@gmail.com**
 
